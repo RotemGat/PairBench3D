@@ -1,0 +1,90 @@
+# Blender 4.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl mat0.062
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_baseColor.png
+map_Ns material_metallicRoughness.png
+map_refl material_metallicRoughness.png
+
+newmtl mat1.030
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material__28_baseColor.png
+map_Ns Material__28_metallicRoughness.png
+map_refl Material__28_metallicRoughness.png
+
+newmtl mat2.024
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material__29_baseColor.png
+map_Ns Material__29_metallicRoughness.png
+map_refl Material__29_metallicRoughness.png
+
+newmtl mat3.013
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material__30_baseColor.png
+map_Ns Material__30_metallicRoughness.png
+map_refl Material__30_metallicRoughness.png
+
+newmtl mat4.011
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material__31_baseColor.png
+map_Ns Material__31_metallicRoughness.png
+map_refl Material__31_metallicRoughness.png
+
+newmtl mat5.009
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material__33_baseColor.png
+map_Ns Material__33_metallicRoughness.png
+map_refl Material__33_metallicRoughness.png
+
+newmtl mat8.006
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material__36_baseColor.png
+map_Ns Material__36_metallicRoughness.png
+map_refl Material__36_metallicRoughness.png
+
+newmtl mat9.005
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material__37_baseColor.png
+map_Ns Material__37_metallicRoughness.png
+map_refl Material__37_metallicRoughness.png

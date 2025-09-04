@@ -1,0 +1,17 @@
+# Blender 4.2.3 LTS MTL File: 'render_white_background.blend'
+# www.blender.org
+
+newmtl mat0.058
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+Pr 0.047290
+Pm 0.658370
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd Material_31_baseColor.png
