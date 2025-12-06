@@ -1,7 +1,7 @@
-# Blender 4.2.3 LTS MTL File: 'None'
+# Blender 4.2.3 LTS MTL File: 'modify_meshes.blend'
 # www.blender.org
 
-newmtl mat0.054
+newmtl mat0.097
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
@@ -13,7 +13,7 @@ map_Ns Coffee_metallicRoughness.png
 map_refl Coffee_metallicRoughness.png
 map_Bump Coffee_normal.png
 
-newmtl mat1.024
+newmtl mat1.038
 Ns 927.272705
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000

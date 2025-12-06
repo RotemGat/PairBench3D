@@ -3,3 +3,4 @@ marti3D
 https://sketchfab.com/3d-models/target-261daa44d8c044bbb7e0b4c7db5cb937
 CC Attribution https://creativecommons.org/licenses/by/4.0/
 Split into parts, modify UV texture
+"Target with an arrow stuck on it"

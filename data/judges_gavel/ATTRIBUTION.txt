@@ -3,3 +3,4 @@ _
 https://sketchfab.com/3d-models/judges-gavel-8d95b6f773474828ac1ee80de45b2e3d
 CC Attribution https://creativecommons.org/licenses/by/4.0/
 Split into parts
+"A Judges Gavel on top of the base"

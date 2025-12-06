@@ -1,7 +1,7 @@
-# Blender 4.2.3 LTS MTL File: 'render_white_background.blend'
+# Blender 4.2.3 LTS MTL File: 'modify_meshes.blend'
 # www.blender.org
 
-newmtl mat1.005
+newmtl mat1.048
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000
@@ -11,7 +11,7 @@ illum 2
 map_Kd material_2_diffuse.png
 map_Ks material_2_specularGlossiness.png
 
-newmtl mat2.004
+newmtl mat2.028
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ke 0.000000 0.000000 0.000000

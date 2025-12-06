@@ -3,3 +3,4 @@ riach
 https://sketchfab.com/3d-models/lipstick-3a22a4359df74375a297d962926f0359
 CC Attribution https://creativecommons.org/licenses/by/4.0/
 Split into parts
+"A red lipstick"

@@ -1,7 +1,7 @@
-# Blender 4.2.3 LTS MTL File: 'None'
+# Blender 4.2.3 LTS MTL File: 'modify_meshes.blend'
 # www.blender.org
 
-newmtl mat0.045
+newmtl mat0.106
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.357830 0.512240 0.071290
@@ -11,7 +11,7 @@ Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl mat1.016
+newmtl mat1.041
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 0.179730 0.026380
@@ -21,7 +21,7 @@ Ni 1.000000
 d 1.000000
 illum 2
 
-newmtl mat2.014
+newmtl mat2.024
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.478830 0.312410 0.079710

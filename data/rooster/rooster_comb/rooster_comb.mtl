@@ -1,18 +1,14 @@
-# Blender 4.2.3 LTS MTL File: 'render_white_background.blend'
+# Blender 4.2.3 LTS MTL File: 'modify_meshes.blend'
 # www.blender.org
 
-newmtl mat0.047
+newmtl mat0.115
+Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-Ps 0.000000
-Pc 0.000000
-Pcr 0.030000
-aniso 0.000000
-anisor 0.000000
 map_Kd Rooster_baseColor.png
-map_Pm Rooster_metallicRoughness.png
-map_Pr Rooster_metallicRoughness.png
+map_Ns Rooster_metallicRoughness.png
+map_refl Rooster_metallicRoughness.png
 map_Bump Rooster_normal.png

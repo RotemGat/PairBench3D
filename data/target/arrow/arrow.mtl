@@ -1,7 +1,7 @@
-# Blender 4.2.3 LTS MTL File: 'render_white_background.blend'
+# Blender 4.2.3 LTS MTL File: 'modify_meshes.blend'
 # www.blender.org
 
-newmtl mat0.014
+newmtl mat0.123
 Ns 176.058273
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000

@@ -3,3 +3,4 @@ ChrisCLP
 https://sketchfab.com/3d-models/stylized-church-b114802b479c4f05b05d107ed032760f
 CC Attribution https://creativecommons.org/licenses/by/4.0/
 Split into parts + remove parts 
+"A church with a cross on top"
