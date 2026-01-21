@@ -8,7 +8,7 @@ Each benchmark instance consists of two 3D meshes together with a natural-langua
 ## Example: Object–Object Alignment
 
 <p align="center">
-  <img src="assets/pinocchio_hat_example.png" width="700">
+  <img src="assets/pinocchio_example.png" width="700">
 </p>
 
 <p align="center">
