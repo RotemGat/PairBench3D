@@ -1,0 +1,14 @@
+# Blender 4.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl mat0.010
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lambert1_baseColor.jpg
+map_Ns lambert1_metallicRoughness.png
+map_refl lambert1_metallicRoughness.png
+map_Bump lambert1_normal.png

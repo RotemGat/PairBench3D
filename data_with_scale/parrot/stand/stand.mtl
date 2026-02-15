@@ -1,0 +1,23 @@
+# Blender 4.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl mat1.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd macaw_diffuse.png
+
+newmtl mat3.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd grey_and_brown_soil_diffuse.jpg
+map_Ks grey_and_brown_soil_specularGlossiness.png
+map_Bump grey_and_brown_soil_normal.jpg

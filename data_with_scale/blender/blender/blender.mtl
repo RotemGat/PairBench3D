@@ -1,0 +1,32 @@
+# Blender 4.2.3 LTS MTL File: 'render_white_background.blend'
+# www.blender.org
+
+newmtl mat0.059
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+Pr 0.447608
+Pm 0.038090
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd blender_baseColor.png
+
+newmtl mat2.022
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+Pr 0.324078
+Pm 0.651090
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd blender_baseColor.png

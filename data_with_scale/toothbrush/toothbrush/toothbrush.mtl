@@ -1,0 +1,92 @@
+# Blender 4.2.3 LTS MTL File: 'render_white_background.blend'
+# www.blender.org
+
+newmtl mat0.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_diffuse.png
+map_Ks material_specularGlossiness.png
+
+newmtl mat10
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_25_diffuse.png
+map_Ks material_25_specularGlossiness.png
+
+newmtl mat3.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_4_diffuse.png
+map_Ks material_4_specularGlossiness.png
+
+newmtl mat4.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_5_diffuse.png
+map_Ks material_5_specularGlossiness.png
+
+newmtl mat5.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_6_diffuse.png
+map_Ks material_6_specularGlossiness.png
+
+newmtl mat6.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_7_diffuse.png
+map_Ks material_7_specularGlossiness.png
+
+newmtl mat7.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_8_diffuse.png
+map_Ks material_8_specularGlossiness.png
+
+newmtl mat8.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_11_diffuse.png
+map_Ks material_8_specularGlossiness.png
+
+newmtl mat9
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd material_24_diffuse.png
+map_Ks material_7_specularGlossiness.png

@@ -1,0 +1,23 @@
+# Blender 4.2.3 LTS MTL File: 'render_with_shade.blend'
+# www.blender.org
+
+newmtl mat0.051
+Ns 178.885468
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Submesh_0_baseColor.png
+map_Bump Submesh_0_normal.png
+
+newmtl mat1.024
+Ns 178.885468
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Submesh_1_baseColor.png

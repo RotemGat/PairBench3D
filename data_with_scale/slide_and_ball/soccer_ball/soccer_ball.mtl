@@ -1,0 +1,26 @@
+# Blender 4.2.3 LTS MTL File: 'run.blend'
+# www.blender.org
+
+newmtl mat0.1077
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Black_s_baseColor.png
+map_Ns Black_s_metallicRoughness.png
+map_refl Black_s_metallicRoughness.png
+map_Bump Black_s_normal.png
+
+newmtl mat1.511
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd White_s_baseColor.png
+map_Ns White_s_metallicRoughness.png
+map_refl White_s_metallicRoughness.png
+map_Bump White_s_normal.png

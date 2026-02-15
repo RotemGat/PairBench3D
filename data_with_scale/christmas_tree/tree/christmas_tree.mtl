@@ -1,0 +1,44 @@
+# Blender 4.2.3 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl mat0.015
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 04_-_Default_baseColor.png
+map_Ns 04_-_Default_metallicRoughness.png
+map_refl 04_-_Default_metallicRoughness.png
+map_Bump 04_-_Default_normal.png
+
+newmtl mat1.011
+Ns 107.028671
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material_326_baseColor.jpg
+
+newmtl mat2.006
+Ns 107.028671
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material_335_baseColor.jpg
+
+newmtl mat3.004
+Ns 107.028671
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Material_337_baseColor.jpg
