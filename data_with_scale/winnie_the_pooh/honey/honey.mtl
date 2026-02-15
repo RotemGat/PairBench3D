@@ -1,7 +1,7 @@
 # Blender 4.2.3 LTS MTL File: 'run.blend'
 # www.blender.org
 
-newmtl mat0.1085
+newmtl mat0.1015
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -11,7 +11,7 @@ d 1.000000
 illum 2
 map_Kd Bee_Base_baseColor.png
 
-newmtl mat4.173
+newmtl mat4.163
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 0.652260 0.023800

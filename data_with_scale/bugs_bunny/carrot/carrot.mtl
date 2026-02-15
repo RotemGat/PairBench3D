@@ -1,7 +1,7 @@
 # Blender 4.2.3 LTS MTL File: 'run.blend'
 # www.blender.org
 
-newmtl mat0.1054
+newmtl mat0.984
 Ns 399.999969
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -11,7 +11,7 @@ d 1.000000
 illum 2
 map_Kd body_baseColor.png
 
-newmtl mat1.501
+newmtl mat1.470
 Ns 399.999969
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -21,7 +21,7 @@ d 1.000000
 illum 2
 map_Kd body1_baseColor.png
 
-newmtl mat2.314
+newmtl mat2.292
 Ns 399.999969
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000

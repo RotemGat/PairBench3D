@@ -1,7 +1,7 @@
 # Blender 4.2.3 LTS MTL File: 'run.blend'
 # www.blender.org
 
-newmtl mat0.1072
+newmtl mat0.1002
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
@@ -13,7 +13,7 @@ map_Ns Material_004_metallicRoughness.png
 map_refl Material_004_metallicRoughness.png
 map_Bump Material_004_normal.png
 
-newmtl mat1.509
+newmtl mat1.478
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000

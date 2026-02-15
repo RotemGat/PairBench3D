@@ -1,7 +1,7 @@
 # Blender 4.2.3 LTS MTL File: 'run.blend'
 # www.blender.org
 
-newmtl mat0.1055
+newmtl mat0.985
 Ns 632.382874
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
